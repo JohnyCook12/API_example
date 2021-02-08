@@ -1,4 +1,12 @@
-# useful_code_pieces
-When you don´t want to create everything from scratch.
+# API based on FALCON
+## Server example
+- functions for working with data (looking up, filtering, creating ID)
+- classes with described GET, POST methods
+- routes for classes
 
-based on tutorials and examples
+
+## Client example
+Using:
+ - REQUESTS module
+ - GET methods
+ - JSON method
